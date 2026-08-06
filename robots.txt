@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dianmx.github.io/handbook-nboqnc/sitemap.xml
